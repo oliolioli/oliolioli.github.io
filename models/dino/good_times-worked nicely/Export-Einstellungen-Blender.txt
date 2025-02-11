@@ -1,0 +1,26 @@
+Export settings blender (Format: glTF Seperated)
+
+Include: Visible objects
+
+Data: Cameras, visible lights
+
+Transform: +Y Up
+
+Data: Scene graph - leer
+
+Data: Mesh - Apply Modifiers, UV, Normals
+
+Material: Export, Images automatic
+
+Shape keys - leer
+
+Armature - leer
+
+Skinning - leer
+
+Lightning mode: standard
+
+Compression - leer (wichtig)
+
+Animation - leer 
+
