@@ -1,6 +1,6 @@
 # 3D model of Bern, Switzerland
 
-The altitude profile was sourced from (OpenStreetMap)[https://www.openstreetmap.org/] and integrated into a (Blender)[https://www.blender.org/] model. 
+The altitude profile was sourced from [OpenStreetMap](https://www.openstreetmap.org) and integrated into a (Blender)[https://www.blender.org/] model. 
 Additionally, building height data was included, allowing the 3D structures to be accurately placed on the terrain.
 
 To enhance realism, (satellite images from NASA)[https://worldview.earthdata.nasa.gov/] were mapped onto the 3D model and carefully scaled to align as accurately as possible.
