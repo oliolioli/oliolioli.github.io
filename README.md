@@ -11,9 +11,24 @@ Can you find the seagull? 🕊️
 
 
 ### How to run this code??
+
+The module responsible for automatically publishing your local content to GitHub Pages is .
+
 ```
 .\npx serve
 ```
+
+### How to publish automatically to GitHub Pages?
+```
+npm install gh-pages --save-dev
+```
+(Keeping it in devDependencies keeps the production build clean and lightweight.)
+
+```
+npm run deploy
+```
+
+Builds your project (if a build step exists) and pushes the necessary files to GitHub Pages.
 
 ## Inspiration / materials
 Adding a [3D model](https://youtu.be/lGokKxJ8D2c) to a website using THREE.JS
